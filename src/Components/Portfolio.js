@@ -15,30 +15,32 @@ class Portfolio extends Component {
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
                   <a
-                    href="https://github.com/SumanChakraborty1998/Lumen5_clone"
+                    href="https://github.com/srikanta30/Shoppers-Stop-Back-End"
                     className="image fit thumb"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="images/thumbs/Lumen5_clone.png"
+                      src="images/thumbs/shoppers-stop-clone.png"
                       alt="js-capstone"
                     />
                   </a>
                   <div className="art-description">
                     <div className="text-wrapper">
-                      <h3>Lumen5</h3>
+                      <h3>Shoppers-Stop</h3>
                       <p>
-                        Lumen5 combines powerful A.I. with a simple
-                        drag-and-drop interface to help you create professional
-                        video content in minutes.
+                        Shoppers Stop is an Indian department store chain, owned
+                        by the K Raheja Corp. There are 86 stores across 40
+                        cities in India, with clothing, accessories, handbags,
+                        shoes, jewellery, fragrances, cosmetics, health and
+                        beauty products, home furnishing, and decor products
                       </p>
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
                         <li>
                           <a
-                            href="https://lumen5clone.netlify.app/"
+                            href="https://shoppers-stop-com.herokuapp.com/"
                             className="button project-button"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -48,7 +50,7 @@ class Portfolio extends Component {
                         </li>
                         <li>
                           <a
-                            href="https://github.com/SumanChakraborty1998/Lumen5_clone"
+                            href="https://github.com/srikanta30/Shoppers-Stop-Back-End"
                             className="button project-button brands"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -60,7 +62,7 @@ class Portfolio extends Component {
                       <div className="languages">
                         <i className="devicon-html5-plain-wordmark technology"></i>
                         <i className="devicon-css3-plain-wordmark technology"></i>
-                        <i className="devicon-javascript-plain technology"></i>
+                        <i className="devicon-mongodb-plain technology"></i>
                       </div>
                     </ul>
                   </div>
@@ -71,31 +73,31 @@ class Portfolio extends Component {
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
                   <a
-                    href="https://github.com/Mangeshbk/Premier-League-clone"
+                    href="https://github.com/chandaprem999/Unit2-TVC-mall-project"
                     className="image fit thumb"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="images/thumbs/PremierLeague_clone.png"
+                      src="images/thumbs/TVC-mall-clone.png"
                       alt="react-capstone"
                     />
                   </a>
                   <div className="art-description">
                     <div className="text-wrapper">
-                      <h3>Premier League Clone</h3>
+                      <h3>TVC-mall Clone</h3>
                       <p>
-                        The Premier League often referred to eponymously as the
-                        English Premier League or the EPL, is the top level of
-                        the English football league system. Contested by 20
-                        clubs.{" "}
+                        TVC-mall is a cross-border e-commerce company which is
+                        mainly specialized in mobile phone accessories products
+                        wholesale, and with the expansion of electronic products
+                        and related accessories.{" "}
                       </p>
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
                         <li>
                           <a
-                            href="https://cloning-premierleague.netlify.app/"
+                            href="https://tvcmallclone.netlify.app"
                             className="button project-button"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -105,7 +107,7 @@ class Portfolio extends Component {
                         </li>
                         <li>
                           <a
-                            href="https://github.com/Mangeshbk/Premier-League-clone"
+                            href="https://github.com/chandaprem999/Unit2-TVC-mall-project"
                             className="button project-button brands"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -125,7 +127,7 @@ class Portfolio extends Component {
               </div>
 
               {/* urbanCompany clone */}
-              <div className="article-wrapper">
+              {/* <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
                   <a
                     href="https://github.com/AleemAlam/Urban-Company"
@@ -178,8 +180,8 @@ class Portfolio extends Component {
                       </div>
                     </ul>
                   </div>
-                </article>
-              </div>
+                </article> 
+               </div> */}
 
               {/* <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
