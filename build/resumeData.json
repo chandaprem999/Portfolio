@@ -1,38 +1,38 @@
 {
   "main": {
-    "name":"Mangesh Landge",
+    "name":"Premkumar Chanda",
     "occupation":"Full-Stack Web Developer",
     "description":"I like to code things from scratch, and enjoy bringing ideas to life in the browser",
     "image":"myprofile.jpeg",
     "contactmessage":"Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
-    "email": "mangeshbkwsu@gmail.com",
-    "phone": "+91 8904215622",
+    "email": "chandaprem999@gmail.com",
+    "phone": "+91 8123466972",
     "address":{
-      "city":"Basavakalyan",
+      "city":"Bidar",
       "state":"Karnataka",
       "zip": "585327"
     },
     "website": "https://www.alex-portfolio.org/",
-    "resumedownload":"https://drive.google.com/uc?export=pdf&id=1Z5hSjSXwjk3i4BdCfehg0YSAKZ34BDfC",
+    "resumedownload":"https://drive.google.com/file/d/1nh8hiMhIcpIecgLLbntmDBEu1KIRM1_B/view?usp=sharing",
     "social":[
       {
         "name":"twitter",
-        "url":"https://twitter.com/mangesh_bk",
+        "url":"https://twitter.com/premkum60956922",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/mangesh-landge-458315166/",
+        "url":"https://www.linkedin.com/in/premkumar-chanda-969170160/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"https://github.com/Mangeshbk",
+        "url":"https://github.com/chandaprem999",
         "className":"fa fa-github"
       },
       {
         "name":"email",
-        "url":"mailto:mangeshbkwsu@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "url":"mailto:chandaprem999@gmail.com?subject=The%20subject%20of%20the%20mail",
         "className":"fa fa-envelope"
       }
     ]
@@ -42,7 +42,7 @@
       {
         "school":"Masai School",
         "degree":"Full-Stack Web Development",
-        "graduated":"August 2021",
+        "graduated":"January 2022",
         "description":"Attending Microverse involved the study of Algorithms and Data Structures, SQL syntax and statements, Full Stack Web Development with Ruby on Rails, JavaScript, React and Redux. Also based on mockups and a broad list of requirements, it was required to build complex web applications and terminal utilities."
       },
       {
