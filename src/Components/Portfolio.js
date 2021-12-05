@@ -21,7 +21,7 @@ class Portfolio extends Component {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="https://github.com/chandaprem999/Portfolio/tree/master/build/images/thumbs/shoppers-stop-clone.png"
+                      src="images/thumbs/shoppers-stop-clone.png"
                       alt="js-capstone"
                     />
                   </a>
@@ -79,7 +79,7 @@ class Portfolio extends Component {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="https://github.com/chandaprem999/Portfolio/tree/master/build/images/thumbs/TVC-mall-clone.png"
+                      src="images/thumbs/TVC-mall-clone.png"
                       alt="react-capstone"
                     />
                   </a>
