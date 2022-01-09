@@ -11,7 +11,7 @@ class Portfolio extends Component {
               id="portfolio-wrapper"
               className="bgrid-quarters s-bgrid-thirds cf"
             >
-              {/* lumen5 clone */}
+              {/* Shoppers Stop  */}
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
                   <a
@@ -69,7 +69,7 @@ class Portfolio extends Component {
                 </article>
               </div>
 
-              {/* Premeir League clone */}
+              {/*TVC-mall Clone*/}
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
                   <a

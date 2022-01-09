@@ -16,7 +16,7 @@ class About extends Component {
 
     return (
       <section id="about">
-        <div className="row">
+        <div style={{ display: "flex" }} className="row">
           {/* <div className="three columns">
             <img
               className="profile-pic"
@@ -24,14 +24,7 @@ class About extends Component {
               alt="Alex Bangau Profile Pic"
             />
           </div> */}
-          <div>
-            <img
-              width="400px"
-              height="500px"
-              style={{ paddingLeft: "25px" }}
-              src={profilepic}
-            />
-          </div>
+
           <div className="nine columns main-col">
             <h2>About Me</h2>
 
@@ -82,6 +75,15 @@ class About extends Component {
                 </p>
               </div>
             </div>
+          </div>
+          <div style={{ width: "50%" }}>
+            <img
+              className="profile-pic"
+              width="100%"
+              height="100%"
+              // style={{ paddingLeft: "25px" }}
+              src={profilepic}
+            />
           </div>
         </div>
       </section>
