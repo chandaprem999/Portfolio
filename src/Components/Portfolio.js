@@ -79,7 +79,7 @@ class Portfolio extends Component {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="images/thumbs/TVC-mall-clone.png"
+                      src="https://drive.google.com/file/d/1ZC28iPXePo160XZYNh_LZfrcbs_eqWhk/view?usp=sharing"
                       alt="react-capstone"
                     />
                   </a>
